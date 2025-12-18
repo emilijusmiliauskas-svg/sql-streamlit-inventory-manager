@@ -1,0 +1,1 @@
+# sql-streamlit-inventory-manager
